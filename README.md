@@ -1,5 +1,6 @@
 EXPT 2a: LINEAR CONVOLUTION-USING-DFT  
-AIM:
+
+AIM:  
 To perform and verify linear convolution operation of two given sequences using SCILAB.
 
 APPARATUS REQUIRED:
