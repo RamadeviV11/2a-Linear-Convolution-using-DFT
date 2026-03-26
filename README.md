@@ -7,8 +7,7 @@ APPARATUS REQUIRED:
 PC installed with SCILAB
 
 PROGRAM:LINEAR CONVOLUTION
-```
-clc;
+```clc;
 clear;
 
 x = [1 1 1 1];
@@ -21,13 +20,13 @@ a = 0:(m-1);
 b = 0:(n-1);
 
 subplot(3,1,1);
-plot2d3(a, x);
+plot2d3(a, x, style=2);
 xlabel('Time');
 ylabel('Amplitude');
 title('Graphical Representation of Input Signal x');
 
 subplot(3,1,2);
-plot2d3(b, h);
+plot2d3(b, h, style=5);
 xlabel('Time');
 ylabel('Amplitude');
 title('Graphical Representation of Impulse Signal h');
@@ -49,7 +48,7 @@ disp(y, 'Convolution Sum using Direct Formula Method = ');
 c = 0:(m + n - 2);
 
 subplot(3,1,3);
-plot2d3(c, y);
+plot2d3(c, y, style=3);
 xlabel('Time');
 ylabel('Amplitude');
 title('Graphical Representation of Output Signal y');
