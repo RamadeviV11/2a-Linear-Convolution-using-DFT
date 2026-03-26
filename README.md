@@ -63,6 +63,6 @@ title('Graphical Representation of Output Signal y');
 ### CALCULATIONS:
 <img width="888" height="1592" alt="image" src="https://github.com/user-attachments/assets/016c9b2d-bb9e-4574-a2a5-87a1251cb840" />
 ### SAMPLE OUTPUT:
-![WhatsApp Image 2026-03-26 at 6 43 04 PM](https://github.com/user-attachments/assets/f7aec707-864b-4009-a808-f2108770ba16)
+![WhatsApp Image 2026-03-26 at 6 43 04 PM](https://github.com/user-attachments/assets/7a41d666-6fb6-4695-8643-baba387654fe)
 RESULT:
 Thus, the linear convolution of the two given sequences were performed and its result was verified.
