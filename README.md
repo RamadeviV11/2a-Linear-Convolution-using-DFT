@@ -61,7 +61,7 @@ title('Graphical Representation of Output Signal y');
 
 
 ### CALCULATIONS:
-![WhatsApp Image 2026-03-26 at 6 38 21 PM](https://github.com/user-attachments/assets/140a1895-1787-49e7-8c09-a05a3cfdf3d1)
+<img width="888" height="1592" alt="image" src="https://github.com/user-attachments/assets/016c9b2d-bb9e-4574-a2a5-87a1251cb840" />
 ### SAMPLE OUTPUT:
 ![WhatsApp Image 2026-03-26 at 6 43 04 PM](https://github.com/user-attachments/assets/f7aec707-864b-4009-a808-f2108770ba16)
 RESULT:
