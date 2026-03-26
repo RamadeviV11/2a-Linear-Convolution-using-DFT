@@ -7,7 +7,8 @@ APPARATUS REQUIRED:
 PC installed with SCILAB
 
 PROGRAM:LINEAR CONVOLUTION
-```clc;
+```
+clc;
 clear;
 
 x = [1 1 1 1];
