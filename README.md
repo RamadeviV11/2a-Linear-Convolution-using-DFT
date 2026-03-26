@@ -1,9 +1,9 @@
 EXPT 2a: LINEAR CONVOLUTION-USING-DFT  
 
-AIM:
+AIM: 
 To perform and verify linear convolution operation of two given sequences using SCILAB.
 
-APPARATUS REQUIRED:
+APPARATUS REQUIRED: 
 PC installed with SCILAB
 
 PROGRAM:LINEAR CONVOLUTION
@@ -61,15 +61,8 @@ title('Graphical Representation of Output Signal y');
 
 
 ### CALCULATIONS:
-
-
-
-
+![WhatsApp Image 2026-03-26 at 6 38 21 PM](https://github.com/user-attachments/assets/140a1895-1787-49e7-8c09-a05a3cfdf3d1)
 ### SAMPLE OUTPUT:
-
-
-
-
 
 RESULT:
 Thus, the linear convolution of the two given sequences were performed and its result was verified.
