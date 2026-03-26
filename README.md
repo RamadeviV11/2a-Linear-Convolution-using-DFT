@@ -6,7 +6,7 @@ To perform and verify linear convolution operation of two given sequences using 
 APPARATUS REQUIRED:  
 PC installed with SCILAB
 
-PROGRAM:LINEAR CONVOLUTION
+PROGRAM:  LINEAR CONVOLUTION
 ```
 clc;
 clear;
